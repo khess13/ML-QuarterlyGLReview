@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+ContactList/
+dep/
+Distribution/
+GL Review/
+pickleJar/
+prev data/
+SME Files/
+TrainingData/
+*.xlsx
+*.xls
+*.pdf
+*.txt
+*.csv
+xls_csv_stitcher.py
