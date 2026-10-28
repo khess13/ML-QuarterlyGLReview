@@ -7,7 +7,8 @@ import os
 '''targets'''
 root = os.getcwd()+'\\'
 quarter = input('Which quarter? 1,2,3,4')
-fileloc = root + 'PreprocessFY22Q'+quarter+'.csv'
+year = input('FY? 23, 24?')
+fileloc = root + 'PreprocessFY'+year+'Q'+quarter+'.csv'
 exportloc = root
 pickleloc = root + 'pickleJar\\'
 
