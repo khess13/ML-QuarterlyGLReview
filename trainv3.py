@@ -19,7 +19,7 @@ root = os.getcwd()
 #fileloc = 'H:\\01 PMO Projects\\IT-RE GL Review\\text_class\\TrainingDataFY19PP12.csv' #TrainingDataFY18PP12.csv -- sw
 #pickleloc = 'H:\\01 PMO Projects\\IT-RE GL Review\\text_class\\pickleJar\\'
 #Training data -- Preprocess in personal folder
-fileloc = root + '\\TrainingDatav2.csv'#'\\TrainingData.csv'#'\\PreprocessTrainingFY21Q2.csv'
+fileloc = root + '\\2025Training.csv'#'\\TrainingDatav2.csv'#'\\TrainingData.csv'#'\\PreprocessTrainingFY21Q2.csv'
 pickleloc = root +'\\pickleJar\\'
 
 no = int(input('0 for IT, 1 for RE'))
